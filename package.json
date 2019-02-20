@@ -1,0 +1,13 @@
+{
+  "id": "wunderlist",
+  "name": "Wunderlist",
+  "version": "1.0.0",
+  "description": "Wunderlist",
+  "main": "index.js",
+  "author": "Lukas Vana <fabian@fabian.cz>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.wunderlist.com/webapp",
+    "hasNotificationSound": true
+  }
+}
